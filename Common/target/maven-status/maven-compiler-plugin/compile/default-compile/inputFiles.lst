@@ -1,0 +1,11 @@
+/home/anderson/Desktop/git.tcc/intellij.maven.project/RMISystem/Common/src/main/java/br/pf/anderson/common/bd/CandidateDao.java
+/home/anderson/Desktop/git.tcc/intellij.maven.project/RMISystem/Common/src/main/java/br/pf/anderson/common/exceptions/IncorrectParametersInTheQueryException.java
+/home/anderson/Desktop/git.tcc/intellij.maven.project/RMISystem/Common/src/main/java/module-info.java
+/home/anderson/Desktop/git.tcc/intellij.maven.project/RMISystem/Common/src/main/java/br/pf/anderson/common/util/Util.java
+/home/anderson/Desktop/git.tcc/intellij.maven.project/RMISystem/Common/src/main/java/br/pf/anderson/common/rmiserveri/RMIServerI.java
+/home/anderson/Desktop/git.tcc/intellij.maven.project/RMISystem/Common/src/main/java/br/pf/anderson/common/exceptions/DuplicateRecordInsertionNotAllowedException.java
+/home/anderson/Desktop/git.tcc/intellij.maven.project/RMISystem/Common/src/main/java/br/pf/anderson/common/bean/Candidate.java
+/home/anderson/Desktop/git.tcc/intellij.maven.project/RMISystem/Common/src/main/java/br/pf/anderson/common/bd/ConnectionBdFactory.java
+/home/anderson/Desktop/git.tcc/intellij.maven.project/RMISystem/Common/src/main/java/br/pf/anderson/common/conf/Config.java
+/home/anderson/Desktop/git.tcc/intellij.maven.project/RMISystem/Common/src/main/java/br/pf/anderson/common/exceptions/InvalidDateException.java
+/home/anderson/Desktop/git.tcc/intellij.maven.project/RMISystem/Common/src/main/java/br/pf/anderson/common/exceptions/InvalidCandidateIDException.java

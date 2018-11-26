@@ -1,0 +1,7 @@
+module-info.class
+br/pf/anderson/common/util/Util.class
+br/pf/anderson/common/rmiserveri/RmiServerI.class
+br/pf/anderson/common/javabean/Candidate.class
+br/pf/anderson/common/bd/CandidateDao.class
+br/pf/anderson/common/conf/Config.class
+br/pf/anderson/common/bd/ConnectionBdFactory.class
